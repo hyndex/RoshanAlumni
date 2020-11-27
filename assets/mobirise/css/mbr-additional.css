@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i&display=swap);
 
 
 
@@ -1110,7 +1110,7 @@ section.lazy-placeholder:after {
   color: #767676 !important;
 }
 .cid-scLhBVqjuV {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/pexels-pixabay-267885-2000x1333.jpg");
 }
 .cid-scLhCEGLIk {
   padding-top: 90px;
@@ -1234,6 +1234,72 @@ section.lazy-placeholder:after {
     max-width: 20%;
     padding: 15px;
     -webkit-flex: 0 0 20%;
+  }
+}
+.cid-shx63rYPtU {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+}
+.cid-shx63rYPtU .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-shx63rYPtU .social-list a:focus {
+  text-decoration: none;
+}
+.cid-shwWfMQJty {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-shwWfMQJty div.b {
+  padding-top: 2rem;
+}
+.cid-shwWfMQJty .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 1.5rem;
+}
+.cid-shwWfMQJty a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-shwWfMQJty .google-map {
+  height: 25rem;
+  position: relative;
+}
+.cid-shwWfMQJty .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-shwWfMQJty .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-shwWfMQJty .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-shwWfMQJty .google-map[data-state="loading"] [data-state-details] {
+  display: none;
+}
+.cid-shwWfMQJty div.left-block.wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+@media (max-width: 767px) {
+  .cid-shwWfMQJty div.left-block.wrapper {
+    padding-bottom: 3rem;
   }
 }
 .cid-scLi1vCwBK {
